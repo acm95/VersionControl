@@ -77,14 +77,5 @@ namespace UserMaintenance {
                 return ResourceManager.GetString("LastName", resourceCulture);
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to .
-        /// </summary>
-        internal static string Utónév {
-            get {
-                return ResourceManager.GetString("Utónév", resourceCulture);
-            }
-        }
     }
 }
